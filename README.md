@@ -1,7 +1,7 @@
 <h1 align="center">Olá me chamo Bruno Gabriel Zordenunes </h1> 
 
 - 🔭 Formado em Análise e desenvolvimento de Sistemas
-- 🌱 Estou estudando atualmente JavaScript e TypeScript
+- 🌱 Estou estudando atualmente Java e SpringBoot
 - 📫  Pode contactar-me por brunogabrielzordenunes@gmail.com
 
 <div align="center" style="display-flex">
