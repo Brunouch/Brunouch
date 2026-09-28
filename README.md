@@ -1,7 +1,7 @@
 <h1 align="center">Olá me chamo Bruno Gabriel Zordenunes </h1> 
 
 - 🔭 Formado em Análise e desenvolvimento de Sistemas
-- Cursando Pós em Engenharia de Software
+- Pós Graduado em Engenharia de Software
 - 🌱 Trabalhando no momento com Php e Laravel no back-end e Angular no front-end
 - 📫  Pode contactar-me por brunogabrielzordenunes@gmail.com
 
